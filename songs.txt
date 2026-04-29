@@ -1,0 +1,6 @@
+Call Me,108,A Minor,215
+7am,120,A Minor,210
+Party,140,D Major,210
+My Girl,135,F Minor,196
+Fly Away,108,G Minor,200
+Alicja,140,D Major,300
