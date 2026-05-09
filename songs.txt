@@ -4,3 +4,6 @@ Party,140,D Major,210
 My Girl,135,F Minor,196
 Fly Away,108,G Minor,200
 Alicja,140,D Major,300
+Papi Chulo,135,E Major,175
+My Amor,105,F Major,180
+Fatima,105,A minor,165
